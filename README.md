@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Michael Gebis
+- 👋 I’m Michael Gebis
 - 👀 I’m interested in C++, Python, Rust, Security, Flash, NVMe, Linux, and Windows
-- 🌱 I’m currently learning Rust, very slowly
-- 💞️ I’m looking to collaborate on nothin'
+- 🌱 I’m currently learning Rust and Atari 2600 Assembly
 - 📫 How to reach me: @ivymike on twitter, or mike dot gebis at gmail
 
 <!---
